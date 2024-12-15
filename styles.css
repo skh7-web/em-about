@@ -1,0 +1,19 @@
+head {
+    font-size: larger;
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+
+body {
+    background-color: black;
+    color: bisque;
+    font-weight: lighter;
+}
+#em { 
+    float: left;
+}
+#em2 { 
+    float: right;
+}
